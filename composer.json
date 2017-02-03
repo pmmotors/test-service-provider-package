@@ -1,0 +1,11 @@
+{
+    "name": "pmmotors/pmtest",
+    "description": "This is a test of package generation.",
+    "authors": [
+        {
+            "name": "Pixel Motion"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
